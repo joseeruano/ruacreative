@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Rua Creative	</title>
-	<atom:link href="http://localhost/jose/comments/feed/?simply_static_page=1027" rel="self" type="application/rss+xml" />
-	<link>httpjoseeruano.github.io/ruacreative/</link>
+	<atom:link href="http://localhost/jose/comments/feed/?simply_static_page=1594" rel="self" type="application/rss+xml" />
+	<link>https://joseeruano.github.io/ruacreative/</link>
 	<description></description>
 	<lastBuildDate>Thu, 10 Aug 2023 19:01:19 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>httpjoseeruano.github.io/ruacreative//2023/08/10/hello-world/#comment-1</link>
+		<link>https://joseeruano.github.io/ruacreative//2023/08/10/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 10 Aug 2023 19:01:19 +0000</pubDate>
-		<guid isPermaLink="false">httpjoseeruano.github.io/ruacreative//?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://joseeruano.github.io/ruacreative//?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
