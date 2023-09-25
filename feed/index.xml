@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Rua Creative</title>
-	<atom:link href="http://localhost/jose/feed/?simply_static_page=3294" rel="self" type="application/rss+xml" />
-	<link>https://joseeruano.github.io/ruacreative/</link>
+	<atom:link href="http://localhost/jose/feed/?simply_static_page=3860" rel="self" type="application/rss+xml" />
+	<link>https://joseeruano.github.io/ruacreative</link>
 	<description></description>
 	<lastBuildDate>Thu, 10 Aug 2023 19:01:19 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,31 +18,31 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 
 <image>
-	<url>https://joseeruano.github.io/ruacreative//wp-content/uploads/2023/08/cropped-Screenshot-2023-08-15-at-15.26.54-1-32x32.png</url>
+	<url>https://joseeruano.github.io/ruacreative/wp-content/uploads/2023/08/cropped-Screenshot-2023-08-15-at-15.26.54-1-32x32.png</url>
 	<title>Rua Creative</title>
-	<link>https://joseeruano.github.io/ruacreative/</link>
+	<link>https://joseeruano.github.io/ruacreative</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://joseeruano.github.io/ruacreative//2023/08/10/hello-world/</link>
-					<comments>https://joseeruano.github.io/ruacreative//2023/08/10/hello-world/#comments</comments>
+		<link>https://joseeruano.github.io/ruacreative/2023/08/10/hello-world/</link>
+					<comments>https://joseeruano.github.io/ruacreative/2023/08/10/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[jose]]></dc:creator>
 		<pubDate>Thu, 10 Aug 2023 19:01:19 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://joseeruano.github.io/ruacreative//?p=1</guid>
+		<guid isPermaLink="false">https://joseeruano.github.io/ruacreative/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://joseeruano.github.io/ruacreative//2023/08/10/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://joseeruano.github.io/ruacreative/2023/08/10/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
