@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments for Rua Creative	</title>
-	<atom:link href="http://localhost/jose/comments/feed/?simply_static_page=3861" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/jose/comments/feed/?simply_static_page=4430" rel="self" type="application/rss+xml" />
 	<link>https://joseeruano.github.io/ruacreative</link>
 	<description></description>
 	<lastBuildDate>Thu, 10 Aug 2023 19:01:19 +0000</lastBuildDate>
@@ -16,7 +16,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
